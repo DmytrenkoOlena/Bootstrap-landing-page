@@ -1,0 +1,127 @@
+
+.header {
+	background: #ffffff;
+	padding-top: 25px;
+	text-align: center;
+	text-decoration: none;
+}
+h2 {
+	color: black;
+}
+.grid {
+	/*width: 1025px;*/
+	margin: 0 auto;
+	text-decoration: none;
+}
+.menu {
+	padding-top: 15px;
+
+}
+.menu a {
+	color: black;
+}
+.layer1 {
+	background-image: url("../img/1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-size: 16px;
+	color: white;
+}
+.grey-layer {
+	background-color: #0c0c0c7a;
+}
+.main-text {
+	padding-top: 235px;
+	text-align: center;
+}
+.aditional-text {
+	text-align: center;
+}
+.menu-btn {
+	border-radius: 20px;
+	font-size: 10px;
+	margin-bottom: 20px;
+}
+.btn-submit {
+	border-radius: 20px;
+	font-size: 10px;
+	text-align: center;
+}
+.info {
+	text-align: center;
+}
+.layer2 {
+	text-align: center;
+	padding-top: 142px;
+}
+span {
+	color: red;
+}
+.icon-layer2 {
+	padding-bottom: 130px;
+}
+.layer3 {
+	background-image: url("../img/table-img.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.contact {
+	padding-top: 135px;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+.layer4 {
+	background-color: #27272b;
+	color: white;
+	text-align: center;
+	padding-top: 60px;
+	font-size: 16px;
+}
+.contact-btn {
+	margin-bottom: 45px;
+	border-radius: 20px;
+	font-size: 10px;
+}
+.form-control {
+	background: #e6e6e6;
+	color: #c9c9ca;
+}
+.layer6 {
+	background-color: #ba3a49;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+.layer5 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+@media screen and (max-width: 776px) {
+body {
+	font-size: 12px;
+}
+h1	{
+	font-size: 28px;
+}
+.main-text, .layer2, .layer4, .icon-layer2, .contact {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.form-control {
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
